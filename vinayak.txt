@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 I am kriyansh Vinayak Shintre
 hello
+=======
+My name is Kriyansh
+>>>>>>> new123
